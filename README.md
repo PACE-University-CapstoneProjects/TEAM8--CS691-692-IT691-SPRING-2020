@@ -1,12 +1,12 @@
 # TEAM8--CS691-692-IT691-SPRING-2020
 
-Adopting Blockchain In The Digital Music Industry
+Title: Adopting Blockchain In The Digital Music Industry
 
 Team Members: Pablo Blanco, Andi Maroge.
 
 Customer: Joe Porter, Avery Leider.
 
-Blockchain has become the platform of choice to
+Abstract: Blockchain has become the platform of choice to
 revolutionize the collection of artist royalties. In this paper, we
 focus on the utilization of blockchain in the Digital Music industry
 along with a new method to collect artist royalties. We will
